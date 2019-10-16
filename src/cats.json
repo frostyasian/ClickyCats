@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Balinese",
+    "image": "/assets/images/balinese.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 2,
+    "name": "Bengal",
+    "image": "/assets/images/bengal.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 3,
+    "name": "Blue Russian",
+    "image": "/assets/images/bluerussian.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 4,
+    "name": "Brittish Shorthair",
+    "image": "/assets/images/brittishshorthair.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 5,
+    "name": "Egyptian Mau",
+    "image": "/assets/images/egyptianmau.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 6,
+    "name": "Himalayan",
+    "image": "/assets/images/himalayan.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 7,
+    "name": "Persian",
+    "image": "/assets/images/persian.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 8,
+    "name": "Scottish Fold",
+    "image": "/assets/images/scottishfold.jpeg",
+    "clickedPictures": false
+  },
+  {
+    "id": 9,
+    "name": "Siamese",
+    "image": "/assets/images/siamese.jpeg",
+    "clickedPictures": false
+  }
+]
