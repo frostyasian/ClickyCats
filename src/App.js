@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Picture from "./components/Picture";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
+
 import cats from "./cats.json";
 import "./App.css";
 
@@ -11,7 +12,7 @@ class App extends Component {
     topScore: 0,
     currentScore: 0,
     clickedPictures: [],
-    message: "Click on an image to start!",
+    message: "Welcome to Clicky Cats!",
     cats: cats
   };
 
@@ -45,7 +46,6 @@ class App extends Component {
     }
   };
   render() {
-    console.log(this.state.cats);
     return (
       <Fragment>
         <Header
