@@ -12,6 +12,4 @@
 
 This application utilizes React for its front-end and Bootstrap for its CSS framework.
 
-![](screenshots/S1.png)
-
-![](screenshots/S2.png)
+![](./src/assets/images/screenshot.png)

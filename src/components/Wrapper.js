@@ -1,5 +1,4 @@
 import React from "react";
-import "../assets/css/main.css";
 
 const Wrapper = props => {
   return (
@@ -27,9 +26,9 @@ const Wrapper = props => {
             "url('https://images.pexels.com/photos/1798642/pexels-photo-1798642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')",
           backgroundSize: "cover",
           height: "960px",
+          width: "100%",
           padding: "30px",
-          // maxHeight: "300px",
-          minHeight: "1116px"
+          margin: "auto"
         }}
       >
         {props.children}
