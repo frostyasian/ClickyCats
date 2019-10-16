@@ -2,55 +2,55 @@
   {
     "id": 1,
     "name": "Balinese",
-    "image": "/assets/images/balinese.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/balinese.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 2,
     "name": "Bengal",
-    "image": "/assets/images/bengal.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/bengal.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 3,
     "name": "Blue Russian",
-    "image": "/assets/images/bluerussian.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/bluerussian.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 4,
     "name": "Brittish Shorthair",
-    "image": "/assets/images/brittishshorthair.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/brittishshorthair.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 5,
     "name": "Egyptian Mau",
-    "image": "/assets/images/egyptianmau.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/egyptianmau.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 6,
     "name": "Himalayan",
-    "image": "/assets/images/himalayan.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/himalayan.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 7,
     "name": "Persian",
-    "image": "/assets/images/persian.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/persian.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 8,
     "name": "Scottish Fold",
-    "image": "/assets/images/scottishfold.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/scottishfold.jpeg?raw=true",
     "clickedPictures": false
   },
   {
     "id": 9,
     "name": "Siamese",
-    "image": "/assets/images/siamese.jpeg",
+    "image": "https://github.com/frostyasian/ClickyCats/blob/master/src/assets/images/siamese.jpeg?raw=true",
     "clickedPictures": false
   }
 ]

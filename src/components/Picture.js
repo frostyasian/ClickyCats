@@ -6,6 +6,7 @@ const Picture = ({ gridArea, img, handleClick, index, id }) => {
   return (
     <div className={gridArea}>
       <img
+        style={{ height: "350px", width: "350px" }}
         src={img}
         className="picture-img"
         alt={img}

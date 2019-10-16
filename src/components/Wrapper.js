@@ -8,7 +8,12 @@ const Wrapper = props => {
         <span className="big">Clicky Cats</span>
         Click on images to earn points. Don't click an image more than once!
       </div>
-      <div className="pictureBox">{props.children}</div>
+      <div
+        className="pictureBox"
+        style={{ display: "flex", justifyContent: "center", flexWrap: "wrap" }}
+      >
+        {props.children}
+      </div>
     </div>
   );
 };
